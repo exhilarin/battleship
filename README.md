@@ -1,2 +1,2 @@
 # battleship
-Battleship in terminal. Just for fun. 
+Battleship in terminal.  Just for fun. 
